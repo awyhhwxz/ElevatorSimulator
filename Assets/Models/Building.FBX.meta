@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: c986757c07b513f44a35ac71d54f9581
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Line008
+    100006: Celling
+    100008: Well
+    100010: Floor
+    100012: Wall
+    100014: Object
+    100016: Line001
+    100018: Line002
+    100020: CarDoorLeft
+    100022: CarDoorRight
+    100024: CarDoorRoot
+    100026: CarFloor
+    100028: Elevator
+    100030: ElevatorRoot
+    100032: StaticBuilding
+    100034: StaticBuildingRoot
+    100036: CarRoot
+    100038: CopButtonDisplay005
+    100040: CopButtonDisplay006
+    100042: CopButtonDisplay007
+    100044: CopButtonDisplay008
+    100046: CopButtonDisplay009
+    100048: Ceiling
+    100050: WellSplit1
+    100052: WellSplit2
+    100054: WellSplit3
+    100056: WellSplit4
+    100058: WellSplit5
+    100060: LopButtonDown
+    100062: LopButtonDownDisplay
+    100064: LopButtonUp
+    100066: LopButtonUpDisplay
+    100068: LopPanel
+    100070: LopRoot
+    100072: LopScreen
+    100074: LopScreenNumberDisplay
+    100076: LopScreenDirectionrDisplay
+    100078: HallDoorRoot
+    100080: HallDoorLeft
+    100082: HallDoorRight
+    400000: //RootNode
+    400002: Box001
+    400004: Line008
+    400006: Celling
+    400008: Well
+    400010: Floor
+    400012: Wall
+    400014: Object
+    400016: Line001
+    400018: Line002
+    400020: CarDoorLeft
+    400022: CarDoorRight
+    400024: CarDoorRoot
+    400026: CarFloor
+    400028: Elevator
+    400030: ElevatorRoot
+    400032: StaticBuilding
+    400034: StaticBuildingRoot
+    400036: CarRoot
+    400038: CopButtonDisplay005
+    400040: CopButtonDisplay006
+    400042: CopButtonDisplay007
+    400044: CopButtonDisplay008
+    400046: CopButtonDisplay009
+    400048: Ceiling
+    400050: WellSplit1
+    400052: WellSplit2
+    400054: WellSplit3
+    400056: WellSplit4
+    400058: WellSplit5
+    400060: LopButtonDown
+    400062: LopButtonDownDisplay
+    400064: LopButtonUp
+    400066: LopButtonUpDisplay
+    400068: LopPanel
+    400070: LopRoot
+    400072: LopScreen
+    400074: LopScreenNumberDisplay
+    400076: LopScreenDirectionrDisplay
+    400078: HallDoorRoot
+    400080: HallDoorLeft
+    400082: HallDoorRight
+    2100000: No Name
+    2100002: 03 - Default
+    2100004: 07 - Default
+    2100006: 01 - Default
+    2100008: 02 - Default
+    2100010: 'Material #0'
+    2100012: 'Material #1'
+    2100014: 'Material #3'
+    2100016: LOPPanel
+    2100018: LopScreen
+    2100020: LopButton
+    2100022: LopDisplay
+    2100024: LOPScreenNumberDisplay
+    2100026: LOPDisplayDirection
+    2100028: HallDoor
+    2300000: //RootNode
+    2300002: Box001
+    2300004: Line008
+    2300006: Celling
+    2300008: Well
+    2300010: Floor
+    2300012: Wall
+    2300014: Object
+    2300016: Line002
+    2300018: CarDoorLeft
+    2300020: CarDoorRight
+    2300022: CarFloor
+    2300024: Elevator
+    2300026: CopButtonDisplay005
+    2300028: CopButtonDisplay006
+    2300030: CopButtonDisplay007
+    2300032: CopButtonDisplay008
+    2300034: CopButtonDisplay009
+    2300036: Ceiling
+    2300038: WellSplit1
+    2300040: WellSplit2
+    2300042: WellSplit3
+    2300044: WellSplit4
+    2300046: WellSplit5
+    2300048: LopButtonDown
+    2300050: LopButtonDownDisplay
+    2300052: LopButtonUp
+    2300054: LopButtonUpDisplay
+    2300056: LopPanel
+    2300058: LopScreen
+    2300060: LopScreenNumberDisplay
+    2300062: LopScreenDirectionrDisplay
+    2300064: HallDoorLeft
+    2300066: HallDoorRight
+    3300000: //RootNode
+    3300002: Box001
+    3300004: Line008
+    3300006: Celling
+    3300008: Well
+    3300010: Floor
+    3300012: Wall
+    3300014: Object
+    3300016: Line002
+    3300018: CarDoorLeft
+    3300020: CarDoorRight
+    3300022: CarFloor
+    3300024: Elevator
+    3300026: CopButtonDisplay005
+    3300028: CopButtonDisplay006
+    3300030: CopButtonDisplay007
+    3300032: CopButtonDisplay008
+    3300034: CopButtonDisplay009
+    3300036: Ceiling
+    3300038: WellSplit1
+    3300040: WellSplit2
+    3300042: WellSplit3
+    3300044: WellSplit4
+    3300046: WellSplit5
+    3300048: LopButtonDown
+    3300050: LopButtonDownDisplay
+    3300052: LopButtonUp
+    3300054: LopButtonUpDisplay
+    3300056: LopPanel
+    3300058: LopScreen
+    3300060: LopScreenNumberDisplay
+    3300062: LopScreenDirectionrDisplay
+    3300064: HallDoorLeft
+    3300066: HallDoorRight
+    4300000: Box001
+    4300002: Line008
+    4300004: Well
+    4300006: Floor
+    4300008: Wall
+    4300010: Celling
+    4300012: Object
+    4300014: Line002
+    4300016: CarFloor
+    4300018: Elevator
+    4300020: CarDoorLeft
+    4300022: CarDoorRight
+    4300024: CopButtonDisplay005
+    4300026: CopButtonDisplay006
+    4300028: CopButtonDisplay007
+    4300030: CopButtonDisplay008
+    4300032: CopButtonDisplay009
+    4300034: Ceiling
+    4300036: WellSplit5
+    4300038: WellSplit4
+    4300040: WellSplit3
+    4300042: WellSplit1
+    4300044: WellSplit2
+    4300046: LopPanel
+    4300048: LopScreen
+    4300050: LopButtonDown
+    4300052: LopButtonDownDisplay
+    4300054: LopButtonUp
+    4300056: LopButtonUpDisplay
+    4300058: LopScreenNumberDisplay
+    4300060: LopScreenDirectionrDisplay
+    4300062: HallDoorLeft
+    4300064: HallDoorRight
+    6400000: //RootNode
+    6400002: Box001
+    6400004: Line008
+    6400006: Celling
+    6400008: Well
+    6400010: Floor
+    6400012: Wall
+    6400014: Object
+    6400016: Line002
+    6400018: CarDoorLeft
+    6400020: CarDoorRight
+    6400022: CarFloor
+    6400024: Elevator
+    6400026: CopButtonDisplay005
+    6400028: CopButtonDisplay006
+    6400030: CopButtonDisplay007
+    6400032: CopButtonDisplay008
+    6400034: CopButtonDisplay009
+    6400036: Ceiling
+    6400038: WellSplit1
+    6400040: WellSplit2
+    6400042: WellSplit3
+    6400044: WellSplit4
+    6400046: WellSplit5
+    6400048: LopButtonDown
+    6400050: LopButtonDownDisplay
+    6400052: LopButtonUp
+    6400054: LopButtonUpDisplay
+    6400056: LopPanel
+    6400058: LopScreen
+    6400060: LopScreenNumberDisplay
+    6400062: LopScreenDirectionrDisplay
+    6400064: HallDoorLeft
+    6400066: HallDoorRight
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 104857d1dcd4a6241a09fb4a24765f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 526eefe2c6562ca4c93573c100924b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: a61dfb7063c462f4e9cc7013585317fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 7d080f05674f7e549b594952f43144e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HallDoor
+    second: {fileID: 2100000, guid: 5475faff84fe3e54f887f4ec7bf3f587, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOPDisplayDirection
+    second: {fileID: 2100000, guid: d005c5ef26a3f3048b39d17b6d423e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOPPanel
+    second: {fileID: 2100000, guid: 553f5b15b06fb1e4fbe2de2a8b80b9de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOPScreenNumberDisplay
+    second: {fileID: 2100000, guid: 5ccf1d5a970dfac4892fb50120f458cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LopButton
+    second: {fileID: 2100000, guid: 503ad5ec320fb4d4b98093cbd0571182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LopDisplay
+    second: {fileID: 2100000, guid: 59fc186fc75e25747946b7e03d0a6732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LopScreen
+    second: {fileID: 2100000, guid: 303c72234308dee4d91f6b2f0960f74e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: 7d080f05674f7e549b594952f43144e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: 7d080f05674f7e549b594952f43144e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 7d080f05674f7e549b594952f43144e9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
